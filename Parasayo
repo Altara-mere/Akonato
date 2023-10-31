@@ -55,7 +55,7 @@
         transform: translateY(100%) rotate(20deg);
       }
       100% {
-        transform: translateY(100%) rotate(0deg);
+        trtransformansform: translateY(100%) rotate(0deg);
       }
     }
   </style>
