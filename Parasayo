@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
+<htmhtmll>
 <head>
   <style>
     body {
       background-color: #581845;
       display: flex;
       align-items: center;
-      justify-content: center;
+      justify-content: cenhtml
       height: 100vh;
       overflow: hidden;
     }
